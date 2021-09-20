@@ -1,0 +1,2 @@
+# assid
+Hackwifi
